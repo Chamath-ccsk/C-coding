@@ -13,6 +13,6 @@ for (int x=1;x<10;x++){
      printf("%d is devided by 7",x);
 
 
-return 0; 
+return 0;  
 }
 
