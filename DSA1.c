@@ -1,15 +1,15 @@
  #include <stdio.h>
 #include <stdlib.h>
 
-
+ 
 struct Node {
-    int data;           // the value stored in this node
-    struct Node *next;  // pointer/address of the NEXT node (NULL if last)
+    int data;           // the value stored in this node.
+    struct Node *next;  // pointer/address of the NEXT node. (NULL if last)
 };
 
 struct LinkedList {
    
-    struct Node *head;
+    struct Node *head;  
 };
 
 
