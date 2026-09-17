@@ -8,7 +8,7 @@ struct Node {
 };
 
 struct LinkedList { 
-   
+    
     struct Node *head;  
 };
 
