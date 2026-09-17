@@ -7,7 +7,7 @@ struct Node {
     struct Node *next;  // pointer/address of the NEXT node. (NULL if last)
 };
 
-struct LinkedList {
+struct LinkedList { 
    
     struct Node *head;  
 };
